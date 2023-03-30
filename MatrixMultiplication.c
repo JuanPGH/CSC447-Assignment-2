@@ -6,8 +6,8 @@
 #include <omp.h>
 #include <pthread.h>
 
-#define ROWS 1500
-#define COLS 1500
+#define ROWS 1200
+#define COLS 1200
 #define THREADS 8
 
 // Global Declaration of 2D Matrices Used
